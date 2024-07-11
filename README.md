@@ -22,4 +22,8 @@ Bonus Features:
 This interactive shopping list allows a user to edit existing list items.
 Delete purchased items and clear the list entirely when all items are purchased.
 
+Note:
+Link the HTML,CSS and Javascript files and push the project on Github. Host your work on any hosting platform such as Netlify or vercel as shown to deploy your work: https://app.netlify.com/sites/flourishing-mandazi-ea112c/configuration/deploys
+
+
 Author: Elizabeth Waweru.
