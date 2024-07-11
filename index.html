@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shopping List</title>
+<link rel="stylesheet" href="./style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>My Shopping List</h1>
+    <div>
+      <form id="create-task-form" action="" method="POST">
+      <input type="text" id="itemInput" placeholder="Enter item...">
+      <button type="button" id="addItemBtn">Add</button>
+      </form>
+    </div>
+    <ul id="itemList">
+      <!-- Items will be added dynamically here -->
+    </ul>
+    <div>
+      <button id="markPurchasedBtn">Mark Purchased</button>
+      <button id="clearListBtn">Clear List</button>
+    </div>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
